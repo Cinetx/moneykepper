@@ -8,7 +8,7 @@ let startBtn = document.getElementById('start'),
     optionalExpensesValue = document.getElementsByClassName('optionalexpenses-value')[0],
     incomeValue = document.getElementsByClassName('income-value')[0],
     monthSavingsValue = document.getElementsByClassName('monthsavings-value')[0],
-    yearSavingsValue = document.getElementsByClassName('yearsavigs-value')[0],
+    yearSavingsValue = document.getElementsByClassName('yearsavings-value')[0],
 
     expensesItem = document.getElementsByClassName('expenses-item'),
     expensesBtn = document.getElementsByTagName('button')[0],
